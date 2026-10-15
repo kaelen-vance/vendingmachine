@@ -1,2 +1,2 @@
 # vendingmachine
-MC vemding machine I created
+MC vending machine I created
